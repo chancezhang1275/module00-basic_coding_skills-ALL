@@ -179,7 +179,7 @@ RUP将软件开发分为几个阶段, 一个大的阶段结束称为一个里程
 
 #### 3.2 开发流程
 
-![](https://raw.githubusercontent.com/chancezhang1275/module00-basic_coding_skills-ALL/master/Software_Engineering/imgs/devProcess.jpg))
+<img src="https://raw.githubusercontent.com/chancezhang1275/module00-basic_coding_skills-ALL/master/Software_Engineering/imgs/devProcess.jpg" style="zoom:30%;" />
 
 
 
