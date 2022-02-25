@@ -48,7 +48,7 @@ date| 26/ 02/ 22
 4. H264 Encoder IP [src](http://openasic.org/category/1/announcements) 
 5. ncnn 腾讯 nihui [src](https://github.com/Tencent/ncnn) 
 
-> 注: 一生一芯片的文档还在建设中
+> 注: 一生一芯的文档还在建设中
 
 
 
@@ -255,6 +255,21 @@ date| 26/ 02/ 22
 > 但是控制部分的STM32F1可以尝试使用uCOS-ii;
 >
 > 需要的时候再进行讲解; 
+
+
+
+后续内容// 与这次开发无关, 待更新
+
+3. 操作系统
+
+   - uCOS-ii
+
+   - Linux
+   - Android
+
+
+
+
 
 
 
